@@ -1,0 +1,8 @@
+kor
+numpy
+mindee
+Pillow
+streamlit
+langchain
+pytesseract
+opencv-python
